@@ -18,4 +18,4 @@
 
 ## อย่างลืมมาใช้โปรแกรมของทางเราเยอะนะครับ 
 ## Discord : https://discord.gg/y3YZ6EtFPz
-### คลิกดาวน์โหลดโปรแกรมสำเร็จรูป : https://hg-developer.xyz/backup/sumofproduct.exe
+### คลิกดาวน์โหลดโปรแกรมสำเร็จรูป : [โปรแกรมคำนวณทางคณิตศาสตร์](https://hg-developer.xyz/backup/sumofproduct.exe)
